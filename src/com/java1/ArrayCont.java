@@ -1,5 +1,7 @@
 package com.java1;
 
+
+
 public class ArrayCont {
 
     private int size; //размер контейнера
