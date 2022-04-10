@@ -4,7 +4,7 @@ import java.util.Random;
 import org.junit.*;
 
 import static org.junit.Assert.*;
-//Класс для юнит тестов
+//Класс для юнит  тестов
 public class ArrayContUTest {
 
     //Метод для получения рандомного элемента
