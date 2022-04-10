@@ -2,7 +2,7 @@ package com.java1;
 
 import java.util.Random;
 
-//Класс для тестирования контейнера ArrayCont
+//Класс для тестирования контейнера  ArrayCont
 public class ArrayContTest {
     //Метод для получения рандомного элемента
     //@param min - минимальное сгенерированное число
